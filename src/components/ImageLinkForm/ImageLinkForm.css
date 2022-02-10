@@ -1,0 +1,18 @@
+.form {
+	display: flex;
+	justify-content: center;
+	flex-flow: row wrap;
+	margin: 0px 25%;
+	background:
+	linear-gradient(135deg, #D46A6A 25%, transparent 25%) -50px 0,
+	linear-gradient(225deg, #D46A6A 25%, transparent 25%) -50px 0,
+	linear-gradient(315deg, #D46A6A 25%, transparent 25%),
+	linear-gradient(45deg, #D46A6A 25%, transparent 25%);
+	background-size: 100px 100px;
+	background-color: black;
+
+}
+
+.title {
+	font-size: 1.5em;
+}

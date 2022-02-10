@@ -1,0 +1,11 @@
+.Tilt {
+	background: linear-gradient(87deg, rgba(20,204,47,1) 0%, rgba(9,121,95,1) 52%, rgba(248,0,255,1) 100%);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.Tilt-inner {
+	font-size: 30px;
+
+}
